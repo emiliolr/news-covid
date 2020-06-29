@@ -15,10 +15,14 @@ ID | User | Source_Name | Tweet_Text | Date_Time
 
 # Folders 
 
-- `collection`
+`collection`
 
-- `data`
+Contains the data collection method, `newest_API_collection.py`. 
 
-- `analysis`
+`data`
 
-- `exploration`
+`analysis`
+
+`exploration`
+
+`paper`
