@@ -17,7 +17,9 @@ ID | User | Source_Name | Tweet_Text | Date_Time
 
 1. `collection`
 
-Contains the data collection method, `newest_API_collection.py`. This will get all tweets in the past week from a given list of users, saving each user's obtained data as a seperate _.csv_ file. **Note:** this is used to collect **new** tweets, **not** to rehydrate the data sets used for this project.
+Contains the data collection method, `newest_API_collection.py`. This will get all tweets in the past week from a given list of users, saving each user's obtained data as a seperate _.csv_ file. 
+
+**Note:** this is used to collect **new** tweets, **not** to rehydrate the data sets used for this project.
 
 2. `data`
 
