@@ -7,7 +7,7 @@ This was a freshman Monroe Scholar project funded by William & Mary.
 
 To comply with [Twitter's content redistribution policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy) (see the "Content Redistribution" heading), I have dehydrated my tweet data sets. This means that the _.ipynb_ files will have difficulty running without some intervention. 
 
-The tweet IDs are inlcuded in seperate _.txt_ files in `data/dehydrated_data`. To rehydrate the tweet data set, you can use [Hydrator](https://github.com/DocNow/hydrator) or query the Twitter API directly. The format for the standard data set used in this project is shown below, with one example row.
+The tweet IDs are inlcuded in seperate _.txt_ files in `data/dehydrated_data`. To rehydrate the tweet data set, you can use [Hydrator](https://github.com/DocNow/hydrator) or query the Twitter API directly. The format for the standard data set used in this project is shown below, with one example row included.
 
 ID | User | Source_Name | Tweet_Text | Date_Time
 --- | --- | --- | --- | --- | 
