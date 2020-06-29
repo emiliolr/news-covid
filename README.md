@@ -1,7 +1,7 @@
 # news-covid
 
 This is the associated code and data for the paper "News Media During an International Crisis: What Twitter Data Says About COVID-19." 
-This project is a freshman Monroe Scholar and was funded by William & Mary.
+This is a freshman Monroe Scholar project and was funded by William & Mary.
 
 # Data
 
