@@ -35,4 +35,6 @@ Contains the exploration notebooks. The code used to produce the visualizations 
 
 5. `miscellaneous`
 
+Contains many different miscellaneous tasks done before applying analysis methods. Data collection using the colection script from `collection` is included. Additionally, the code used to produce the visualizations for the "Limitations" section of the paper is also included.
+
 6. `paper`
