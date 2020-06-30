@@ -31,7 +31,8 @@ Contains the code for applying **sentiment analysis** (using TextBlob) and **nam
 
 4. `exploration`
 
+Contains the exploration notebooks. The code used to produce the visualizations from the "Results" section of the paper is included here. `basic_SA.ipynb` includes all the sentiment analysis exploration; `convergence_on_COVID.ipynb` looks at the percentage of articles about COVID over time; `looking_at_NEs.ipynb` includes all of the named entity recogntion exploration. 
+
 5. `miscellaneous`
 
 6. `paper`
-
