@@ -27,7 +27,7 @@ Contains the dehydrated tweet data sets. For the data sets used in the paper, lo
 
 3. `analysis`
 
-Contains the code for applying **sentiment analysis** (using TextBlob) and **named entity recognition** (using spaCy) to the data. The _.ipynb_ file also includes a basic pipeline for implementing **word collocations** (using NLTK), although this method was not used for the paper.
+Contains the code for applying **sentiment analysis** (using TextBlob) and **named entity recognition** (using spaCy) to the data. `applying_analysis_methods.ipynb` also includes a basic pipeline for implementing **word collocations** (using NLTK), although this method was not used for the paper.
 
 4. `exploration`
 
