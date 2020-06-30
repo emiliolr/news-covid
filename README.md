@@ -38,3 +38,5 @@ Contains the exploration notebooks. The code used to produce the visualizations 
 Contains many different miscellaneous tasks done before applying analysis methods. Data collection using the colection script from `collection` is included in `miscellaneous_stuff.ipynb`. Additionally, the code used to produce the visualizations for the "Limitations" section of the paper is also included in `miscellaneous_stuff.ipynb`. `stuff_for_writeup.ipynb` contains the code used to produce several descriptive tables for the writeup.
 
 6. `paper`
+
+Contains a _PDF_ of the paper as well as _PNG_ files for all the figures and tables used in the paper.
