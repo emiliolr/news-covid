@@ -23,7 +23,7 @@ Contains the data collection method, `newest_API_collection.py`. This will get a
 
 2. `data`
 
-Contains the dehydrated tweet data sets. For the data sets used in the paper, look at `data/dehydrated_data` (tweets from **March 4th - April 1st**). For the extended data sets, which include extra tweets that were not analyzed in the paper , look at `data/full_dehydrated_data` (tweets from **March 3rd - April 22nd**).
+Contains the dehydrated tweet data sets. For the data sets used in the paper, look at `data/dehydrated_data` (tweets from **March 4th - April 1st**). For the extended data sets, which include extra tweets that were not analyzed in the paper, look at `data/full_dehydrated_data` (tweets from **March 3rd - April 22nd**).
 
 3. `analysis`
 
