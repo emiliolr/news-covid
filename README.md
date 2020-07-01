@@ -39,4 +39,4 @@ Contains many different miscellaneous tasks done before applying analysis method
 
 6. `paper`
 
-Contains a _PDF_ of the paper as well as _PNG_ files for all the figures and tables used in the paper.
+Contains a _PDF_ of the paper as well as _PNG_ files for all the figures (`paper/figures`) and tables (`paper/tables`) used in the paper.
